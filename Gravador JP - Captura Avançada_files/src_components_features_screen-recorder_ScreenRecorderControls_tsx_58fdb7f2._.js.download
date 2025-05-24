@@ -1,0 +1,17 @@
+(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["static/chunks/src_components_features_screen-recorder_ScreenRecorderControls_tsx_58fdb7f2._.js", {
+
+"[project]/src/components/features/screen-recorder/ScreenRecorderControls.tsx [app-client] (ecmascript, next/dynamic entry, async loader)": ((__turbopack_context__) => {
+
+var { g: global, __dirname } = __turbopack_context__;
+{
+__turbopack_context__.v((parentImport) => {
+    return Promise.all([
+  "static/chunks/src_components_84689980._.js",
+  "static/chunks/node_modules_b67bfda2._.js",
+  "static/chunks/src_components_features_screen-recorder_ScreenRecorderControls_tsx_f663fdf1._.js"
+].map((chunk) => __turbopack_context__.l(chunk))).then(() => {
+        return parentImport("[project]/src/components/features/screen-recorder/ScreenRecorderControls.tsx [app-client] (ecmascript, next/dynamic entry)");
+    });
+});
+}}),
+}]);
